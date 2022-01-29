@@ -8,11 +8,11 @@ app.get('/customer', (request, response) => {
         name: 'Ragnar Lothbrook',
         cpf: '144.767.890-00',
         dataDeNascimento: '13/09/1991',
-    }
+    };
 
-    response.send(customerData)
-})
+    response.send(customerData);
+});
 
 app.listen(5002, () => {
-    console.log('🟠 Server started on port 5002')
+    console.log('🟠 Server started on port 5002');
 });
