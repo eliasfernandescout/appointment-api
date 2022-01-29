@@ -1,3 +1,11 @@
 dist
 node_modules
 .env
+.idea/
+build/
+temp/
+coverage
+ormconfig.json
+
+uploads/*
+!uploads/.gitkeep
