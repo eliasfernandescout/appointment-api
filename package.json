@@ -1,0 +1,10 @@
+{
+  "name": "appointment-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elias Fernandes <eliasfernandescout@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
